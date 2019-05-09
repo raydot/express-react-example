@@ -1,0 +1,29 @@
+{
+  "name": "express-react-example",
+  "version": "1.0.0",
+  "description": "Following tutorial from medium.com.  Set REPO for url",
+  "main": "server.js",
+  "dependencies": {
+    "express": "^4.16.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/raydot/express-react-example.git"
+  },
+  "keywords": [
+    "node",
+    "react",
+    "express"
+  ],
+  "author": "Dave Kanter",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/raydot/express-react-example/issues"
+  },
+  "homepage": "https://github.com/raydot/express-react-example#readme"
+}
